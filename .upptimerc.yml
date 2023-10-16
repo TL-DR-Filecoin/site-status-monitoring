@@ -13,7 +13,10 @@ sites:
     url: https://www.filecointldr.io/how-to-buy-filecoin
   - name: TLDR Filecoin Views and Research
     url: https://www.filecointldr.io/views-and-research
-
+  - name: TLDR Filecoin Terms & Conditions
+    url: https://www.filecointldr.io/terms
+  - name: TLDR Filecoin Privacy Policy
+    url: https://filecointldr.io/privacy-policy
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
