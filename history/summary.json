@@ -22,18 +22,20 @@
     "url": "https://www.filecointldr.io/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 758,
+    "timeDay": 721,
     "timeWeek": 686,
     "timeMonth": 686,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-19": 0
+    }
   },
   {
     "name": "TLDR Filecoin How to Stake FIL",
