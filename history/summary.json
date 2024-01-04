@@ -4,19 +4,19 @@
     "url": "https://www.filecointldr.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 1469,
     "timeDay": 1675,
     "timeWeek": 2123,
     "timeMonth": 1930,
     "timeYear": 1469,
     "dailyMinutesDown": {
-      "2024-01-04": 9
+      "2024-01-04": 27
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://www.filecointldr.io/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "3.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 553,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-01-04": 1259,
+      "2024-01-04": 1277,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -121,19 +121,19 @@
     "url": "https://www.filecointldr.io/how-to-stake-filecoin",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-how-to-stake-fil",
-    "status": "up",
-    "uptime": "58.48%",
+    "status": "down",
+    "uptime": "58.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.48%",
+    "uptimeYear": "58.47%",
     "time": 2530,
     "timeDay": 942,
     "timeWeek": 1120,
     "timeMonth": 1649,
     "timeYear": 2530,
     "dailyMinutesDown": {
-      "2024-01-04": 1259,
+      "2024-01-04": 1277,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -174,19 +174,19 @@
     "url": "https://www.filecointldr.io/how-to-buy-filecoin",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-how-to-buy-fil",
-    "status": "up",
-    "uptime": "60.96%",
+    "status": "down",
+    "uptime": "60.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.96%",
+    "uptimeYear": "60.95%",
     "time": 724,
     "timeDay": 768,
     "timeWeek": 808,
     "timeMonth": 839,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-01-04": 1259,
+      "2024-01-04": 1277,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -225,19 +225,19 @@
     "url": "https://www.filecointldr.io/views-and-research",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-views-and-research",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1346,
     "timeDay": 1546,
     "timeWeek": 1255,
     "timeMonth": 1172,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2024-01-04": 3
+      "2024-01-04": 21
     }
   },
   {
@@ -245,19 +245,19 @@
     "url": "https://www.filecointldr.io/terms",
     "icon": "https://icons.duckduckgo.com/ip3/www.filecointldr.io.ico",
     "slug": "tldr-filecoin-terms-and-conditions",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 253,
     "timeDay": 237,
     "timeWeek": 275,
     "timeMonth": 245,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-01-04": 2
+      "2024-01-04": 20
     }
   },
   {
@@ -265,9 +265,9 @@
     "url": "https://filecointldr.io/privacy-policy",
     "icon": "https://icons.duckduckgo.com/ip3/filecointldr.io.ico",
     "slug": "tldr-filecoin-privacy-policy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -276,6 +276,8 @@
     "timeWeek": 171,
     "timeMonth": 164,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   }
 ]
